@@ -3,7 +3,9 @@
     "spot": "cA",
     "name": "Đại học Công nghệ Thông tin",
     "type": "bus",
-    "providers": ["https://maps.app.goo.gl/TFTc8bRScMsYFzS88"]
+    "providers": [
+      "https://maps.app.goo.gl/TFTc8bRScMsYFzS88"
+    ]
   },
   {
     "spot": "cB",
