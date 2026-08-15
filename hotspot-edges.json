@@ -1,112 +1,562 @@
 [
-  {"first": "A", "second": "A1"},
-  {"first": "A", "second": "A2"},
-  {"first": "A", "second": "A3"},
-  {"first": "A", "second": "A4"},
-  {"first": "A", "second": "A5"},
-  {"first": "B", "second": "Z22"},
-  {"first": "B", "second": "Y3"},
-  {"first": "B", "second": "Z25"},
-  {"first": "B", "second": "Z20"},
-  {"first": "B", "second": "B2"},
-  {"first": "B", "second": "B1"},
-  {"first": "C", "second": "C1"},
-  {"first": "C", "second": "C2"},
-  {"first": "C", "second": "C3"},
-  {"first": "C", "second": "C4"},
-  {"first": "C", "second": "C5"},
-  {"first": "D", "second": "D1"},
-  {"first": "D", "second": "cB"},
-  {"first": "E", "second": "E1"},
-  {"first": "E", "second": "E2"},
-  {"first": "E", "second": "E3"},
-  {"first": "cA", "second": "Z32"},
-  {"first": "P1", "second": "Z32"},
-  {"first": "P2", "second": "P1"},
-  {"first": "Z14", "second": "P2"},
-  {"first": "Z14", "second": "Z13"},
-  {"first": "Z13", "second": "A4"},
-  {"first": "Z13", "second": "Z12"},
-  {"first": "Z12", "second": "A5"},
-  {"first": "Z12", "second": "A6"},
-  {"first": "Z12", "second": "Z16"},
-  {"first": "Z12", "second": "B1"},
-  {"first": "Z12", "second": "Z11"},
-  {"first": "Z11", "second": "B1"},
-  {"first": "Z10", "second": "Z11"},
-  {"first": "P3", "second": "Z10"},
-  {"first": "B2", "second": "P3"},
-  {"first": "S3", "second": "B2"},
-  {"first": "S3", "second": "Z9"},
-  {"first": "Z15", "second": "S3"},
-  {"first": "Y5", "second": "Z15"},
-  {"first": "Z9", "second": "Z8"},
-  {"first": "Z8", "second": "S2"},
-  {"first": "S2", "second": "Z7"},
-  {"first": "Z7", "second": "S1"},
-  {"first": "S1", "second": "C2"},
-  {"first": "S1", "second": "Z36"},
-  {"first": "Z36", "second": "D1"},
-  {"first": "D1", "second": "cB"},
-  {"first": "Z36", "second": "Z37"},
-  {"first": "Z37", "second": "C3"},
-  {"first": "C1", "second": "C3"},
-  {"first": "Z6", "second": "C1"},
-  {"first": "Z6", "second": "C2"},
-  {"first": "Z21", "second": "C1"},
-  {"first": "Z20", "second": "Z21"},
-  {"first": "Z25", "second": "Z20"},
-  {"first": "Y3", "second": "Z25"},
-  {"first": "Z22", "second": "Y3"},
-  {"first": "S3", "second": "Z22"},
-  {"first": "B2", "second": "Y3"},
-  {"first": "B1", "second": "Y3"},
-  {"first": "Z22", "second": "Z23"},
-  {"first": "Z23", "second": "Z7"},
-  {"first": "Z22", "second": "Z24"},
-  {"first": "Z24", "second": "Z25"},
-  {"first": "Z20", "second": "Z19"},
-  {"first": "Z19", "second": "Z18"},
-  {"first": "Z18", "second": "Y2"},
-  {"first": "Z18", "second": "Z16"},
-  {"first": "Z17", "second": "Z4"},
-  {"first": "Z4", "second": "Z5"},
-  {"first": "C1", "second": "Z5"},
-  {"first": "C3", "second": "Y4"},
-  {"first": "Y4", "second": "C4"},
-  {"first": "Z5", "second": "C5"},
-  {"first": "C5", "second": "C4"},
-  {"first": "C4", "second": "Z29"},
-  {"first": "Z29", "second": "Z30"},
-  {"first": "Z30", "second": "Z28"},
-  {"first": "Z28", "second": "Z27"},
-  {"first": "Z27", "second": "Z26"},
-  {"first": "Z26", "second": "cA"},
-  {"first": "Z2", "second": "Z26"},
-  {"first": "A2", "second": "Z2"},
-  {"first": "Z2", "second": "Y1"},
-  {"first": "Y1", "second": "Z26"},
-  {"first": "Y1", "second": "Z27"},
-  {"first": "Z3", "second": "Y1"},
-  {"first": "Z3", "second": "Z2"},
-  {"first": "Z3", "second": "E1"},
-  {"first": "E1", "second": "E3"},
-  {"first": "E3", "second": "Z27"},
-  {"first": "E3", "second": "Z35"},
-  {"first": "Z34", "second": "Z35"},
-  {"first": "Z34", "second": "C5"},
-  {"first": "Z4", "second": "E2"},
-  {"first": "E2", "second": "Z33"},
-  {"first": "Z33", "second": "Z34"},
-  {"first": "Z16", "second": "A1"},
-  {"first": "A1", "second": "Z17"},
-  {"first": "A1", "second": "Z3"},
-  {"first": "Z17", "second": "Z3"},
-  {"first": "A5", "second": "A3"},
-  {"first": "A3", "second": "Z21"},
-  {"first": "Z21", "second": "Z32"},
-  {"first": "A3", "second": "A2"},
-  {"first": "A2", "second": "A1"},
-  {"first": "A1", "second": "A6"},
-  {"first": "A6", "second": "A5"}
+  {
+    "first": "cA",
+    "second": "BQ"
+  },
+  {
+    "first": "CV",
+    "second": "AB"
+  },
+  {
+    "first": "AB",
+    "second": "AC"
+  },
+  {
+    "first": "AC",
+    "second": "AI"
+  },
+  {
+    "first": "AF",
+    "second": "AG"
+  },
+  {
+    "first": "AG",
+    "second": "AH"
+  },
+  {
+    "first": "AH",
+    "second": "AC"
+  },
+  {
+    "first": "AD",
+    "second": "AE"
+  },
+  {
+    "first": "AE",
+    "second": "AF"
+  },
+  {
+    "first": "AE",
+    "second": "BN"
+  },
+  {
+    "first": "BN",
+    "second": "BM"
+  },
+  {
+    "first": "BM",
+    "second": "BQ"
+  },
+  {
+    "first": "BK",
+    "second": "BL"
+  },
+  {
+    "first": "BK",
+    "second": "BP"
+  },
+  {
+    "first": "BP",
+    "second": "BL"
+  },
+  {
+    "first": "BP",
+    "second": "CH"
+  },
+  {
+    "first": "BP",
+    "second": "BO"
+  },
+  {
+    "first": "BP",
+    "second": "BN"
+  },
+  {
+    "first": "BO",
+    "second": "AE"
+  },
+  {
+    "first": "BO",
+    "second": "AJ"
+  },
+  {
+    "first": "AJ",
+    "second": "AH"
+  },
+  {
+    "first": "AJ",
+    "second": "AL"
+  },
+  {
+    "first": "AL",
+    "second": "AM"
+  },
+  {
+    "first": "AL",
+    "second": "AK"
+  },
+  {
+    "first": "CH",
+    "second": "AJ"
+  },
+  {
+    "first": "BL",
+    "second": "CH"
+  },
+  {
+    "first": "CH",
+    "second": "BJ"
+  },
+  {
+    "first": "BJ",
+    "second": "CI"
+  },
+  {
+    "first": "CI",
+    "second": "CW"
+  },
+  {
+    "first": "CW",
+    "second": "CJ"
+  },
+  {
+    "first": "CJ",
+    "second": "CK"
+  },
+  {
+    "first": "AM",
+    "second": "AN"
+  },
+  {
+    "first": "AN",
+    "second": "AO"
+  },
+  {
+    "first": "AO",
+    "second": "BA"
+  },
+  {
+    "first": "BA",
+    "second": "BB"
+  },
+  {
+    "first": "BB",
+    "second": "BG"
+  },
+  {
+    "first": "BG",
+    "second": "CF"
+  },
+  {
+    "first": "CF",
+    "second": "CX"
+  },
+  {
+    "first": "CX",
+    "second": "CE"
+  },
+  {
+    "first": "CE",
+    "second": "CG"
+  },
+  {
+    "first": "CF",
+    "second": "CG"
+  },
+  {
+    "first": "CX",
+    "second": "CG"
+  },
+  {
+    "first": "BG",
+    "second": "BF"
+  },
+  {
+    "first": "BF",
+    "second": "BH"
+  },
+  {
+    "first": "CE",
+    "second": "BI"
+  },
+  {
+    "first": "BI",
+    "second": "CW"
+  },
+  {
+    "first": "BI",
+    "second": "BH"
+  },
+  {
+    "first": "BF",
+    "second": "BE"
+  },
+  {
+    "first": "BE",
+    "second": "CY"
+  },
+  {
+    "first": "CY",
+    "second": "DA"
+  },
+  {
+    "first": "CY",
+    "second": "CK"
+  },
+  {
+    "first": "CK",
+    "second": "DB"
+  },
+  {
+    "first": "DA",
+    "second": "CK"
+  },
+  {
+    "first": "DA",
+    "second": "CU"
+  },
+  {
+    "first": "CU",
+    "second": "DC"
+  },
+  {
+    "first": "DC",
+    "second": "BX"
+  },
+  {
+    "first": "CU",
+    "second": "CD"
+  },
+  {
+    "first": "CD",
+    "second": "CZ"
+  },
+  {
+    "first": "CY",
+    "second": "CZ"
+  },
+  {
+    "first": "BE",
+    "second": "CC"
+  },
+  {
+    "first": "CZ",
+    "second": "CC"
+  },
+  {
+    "first": "CC",
+    "second": "BZ"
+  },
+  {
+    "first": "BY",
+    "second": "BZ"
+  },
+  {
+    "first": "BZ",
+    "second": "cB"
+  },
+  {
+    "first": "DD",
+    "second": "cB"
+  },
+  {
+    "first": "DD",
+    "second": "BZ"
+  },
+  {
+    "first": "BY",
+    "second": "BX"
+  },
+  {
+    "first": "BX",
+    "second": "BW"
+  },
+  {
+    "first": "BW",
+    "second": "CT"
+  },
+  {
+    "first": "CT",
+    "second": "BV"
+  },
+  {
+    "first": "BV",
+    "second": "BU"
+  },
+  {
+    "first": "BU",
+    "second": "BS"
+  },
+  {
+    "first": "BS",
+    "second": "BT"
+  },
+  {
+    "first": "CT",
+    "second": "CS"
+  },
+  {
+    "first": "CS",
+    "second": "CR"
+  },
+  {
+    "first": "CR",
+    "second": "CQ"
+  },
+  {
+    "first": "CP",
+    "second": "CQ"
+  },
+  {
+    "first": "CP",
+    "second": "BT"
+  },
+  {
+    "first": "CQ",
+    "second": "CO"
+  },
+  {
+    "first": "CO",
+    "second": "CN"
+  },
+  {
+    "first": "CM",
+    "second": "CL"
+  },
+  {
+    "first": "CL",
+    "second": "DB"
+  },
+  {
+    "first": "CL",
+    "second": "CK"
+  },
+  {
+    "first": "BD",
+    "second": "BC"
+  },
+  {
+    "first": "BC",
+    "second": "BB"
+  },
+  {
+    "first": "AO",
+    "second": "AP"
+  },
+  {
+    "first": "AP",
+    "second": "AX"
+  },
+  {
+    "first": "AX",
+    "second": "AY"
+  },
+  {
+    "first": "AV",
+    "second": "AU"
+  },
+  {
+    "first": "AU",
+    "second": "AT"
+  },
+  {
+    "first": "AT",
+    "second": "AP"
+  },
+  {
+    "first": "AP",
+    "second": "AQ"
+  },
+  {
+    "first": "AQ",
+    "second": "AS"
+  },
+  {
+    "first": "AS",
+    "second": "AR"
+  },
+  {
+    "first": "AV",
+    "second": "AW"
+  },
+  {
+    "first": "AW",
+    "second": "AZ"
+  },
+  {
+    "first": "AM",
+    "second": "AJ"
+  },
+  {
+    "first": "AB",
+    "second": "DH"
+  },
+  {
+    "first": "DH",
+    "second": "DG"
+  },
+  {
+    "first": "DG",
+    "second": "DF"
+  },
+  {
+    "first": "DF",
+    "second": "AX"
+  },
+  {
+    "first": "BK",
+    "second": "BR"
+  },
+  {
+    "first": "CM",
+    "second": "BL"
+  },
+  {
+    "first": "AK",
+    "second": "DI"
+  },
+  {
+    "first": "DI",
+    "second": "CE"
+  },
+  {
+    "first": "DJ",
+    "second": "CX"
+  },
+  {
+    "first": "DK",
+    "second": "CF"
+  },
+  {
+    "first": "DK",
+    "second": "BA"
+  },
+  {
+    "first": "DK",
+    "second": "DJ"
+  },
+  {
+    "first": "DJ",
+    "second": "DI"
+  },
+  {
+    "first": "DM",
+    "second": "CR"
+  },
+  {
+    "first": "DM",
+    "second": "CT"
+  },
+  {
+    "first": "BQ",
+    "second": "DL"
+  },
+  {
+    "first": "DL",
+    "second": "AD"
+  },
+  {
+    "first": "DL",
+    "second": "CV"
+  },
+  {
+    "first": "cA",
+    "second": "AA"
+  },
+  {
+    "first": "AA",
+    "second": "AB"
+  },
+  {
+    "first": "CV",
+    "second": "AA"
+  },
+  {
+    "first": "BT",
+    "second": "DE"
+  },
+  {
+    "first": "DE",
+    "second": "DN"
+  },
+  {
+    "first": "DN",
+    "second": "BR"
+  },
+  {
+    "first": "DO",
+    "second": "BR"
+  },
+  {
+    "first": "DO",
+    "second": "DP"
+  },
+  {
+    "first": "DP",
+    "second": "DQ"
+  },
+  {
+    "first": "CN",
+    "second": "DQ"
+  },
+  {
+    "first": "DQ",
+    "second": "CM"
+  },
+  {
+    "first": "CL",
+    "second": "DR"
+  },
+  {
+    "first": "DR",
+    "second": "DM"
+  },
+  {
+    "first": "DR",
+    "second": "CR"
+  },
+  {
+    "first": "BS",
+    "second": "DT"
+  },
+  {
+    "first": "DT",
+    "second": "BM"
+  },
+  {
+    "first": "BM",
+    "second": "DS"
+  },
+  {
+    "first": "DS",
+    "second": "BK"
+  },
+  {
+    "first": "DT",
+    "second": "DS"
+  },
+  {
+    "first": "BE",
+    "second": "DX"
+  },
+  {
+    "first": "DX",
+    "second": "BD"
+  },
+  {
+    "first": "ED",
+    "second": "BM"
+  },
+  {
+    "first": "DS",
+    "second": "ED"
+  },
+  {
+    "first": "DT",
+    "second": "ED"
+  },
+  {
+    "first": "BB",
+    "second": "EC"
+  }
 ]
